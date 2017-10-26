@@ -56,4 +56,5 @@ Este reto sera evaluado sobre lo siguiente:
 - Indentación
 - Estructura de tus archivos
 - Archivo `README.md` actualizado y correctamente redactado
-- Uso de comentarios para hacer tu código más legible
+# Ejercicio AppLove
+## Se realizó el maquetado utilizando HTML y CSS. 
